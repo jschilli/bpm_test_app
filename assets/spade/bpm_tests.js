@@ -1,6 +1,6 @@
 /* ===========================================================================
    BPM Combined Asset File
-   MANIFEST: spade (1.0.0.5)
+   MANIFEST: spade (1.0.1)
    This file is generated automatically by the bpm (http://www.bpmjs.org)
    =========================================================================*/
 

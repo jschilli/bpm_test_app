@@ -3,6 +3,7 @@
   "bpm": "1.0.0",
   "bpm:build": {
     "bpm_libs.js": {
+      "spade:format": "function",
       "directories": [
         "lib"
       ],
@@ -16,6 +17,7 @@
   },
   "dependencies": {
     "sproutcore": ">= 0",
-    "spade": ">= 0"
+    "spade": ">= 0",
+    "spade-qunit": ">= 0"
   }
 }
